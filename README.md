@@ -1,0 +1,1 @@
+# implementation-of-color-coherence-vector-in-an-image
